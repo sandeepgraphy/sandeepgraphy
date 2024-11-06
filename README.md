@@ -12,8 +12,6 @@ I am a software developer with experience in Core Java and J2EE technologies, <b
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sandeepgraphy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sandeepgraphy&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
